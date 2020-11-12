@@ -4,9 +4,9 @@
 
 origin이란 원격 저장소의 이름이다.
 
-원격 저장소 추가 명령어는 git remote add <이름><url>로 붙임
+원격 저장소 추가 명령어는 git remote add <이름><URL>로 붙임
 
-마찬가지로 git remote add origin <url> 형식으로 원격 저장소를 추가하거나
+마찬가지로 git remote add origin <URL> 형식으로 원격 저장소를 추가하거나
 
 git clone을 통해 원격 저장소를 복사하면 자동으로 origin이라는 이름의 원격저장소가 등록되게 된다.
 
